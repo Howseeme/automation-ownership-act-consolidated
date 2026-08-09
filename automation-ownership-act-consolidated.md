@@ -1,0 +1,131 @@
+# The Automation Ownership Act — Consolidated Framework
+
+## Core thesis
+
+Automation won't just take blue-collar jobs — it will appropriate the value workers generate through their daily labor (as training data for the robots that replace them) without compensation. Instead of solving this with income redistribution (UBI, robot taxes), this framework gives workers a legal, non-transferable **ownership stake** in the automation that displaces them — turning displacement into a source of ongoing income and leverage rather than dependency.
+
+The core principle: **workers own the data provenance of the machines that replace them.** Robots are trained on the real corrections workers provide on the line, so workers hold a legal claim on the resulting hardware — not just a wage for their labor.
+
+---
+
+## The hardware ownership mechanism
+
+- Each worker earns a non-tradeable, body-tied **Digital Ticket** by logging required "Coach" hours working alongside sensors/robots on the real line — this is how the AI model gets trained on real corrections.
+- Once activated, the ticket unlocks a **zero-interest government loan** (administered via smart contract, not discretionary state control) to buy a robot.
+- **Operating companies (factories, logistics firms — anyone deploying robots) are permanently banned from purchasing robots outright, at any point, from any source — including from a retiring worker.** They must **rent from workers**, with no exception. This ban is absolute and is revisited in the retirement disposition section below, where the only party permitted to buy back hardware is the AI/robotics manufacturer, not the operating company that was renting it.
+- Workers earn two income streams: **Wage A** (data/sampling) and **Wage B** (robot rental income).
+- Skill mastery unlocks tickets for more advanced robots; basic tickets are guaranteed to every worker in the trade.
+- Hardware upgrades happen through trade-in value deducted from a rolling loan as technology advances.
+- Retirement pension is calculated from the market value of past robot assets and skill tier — not a discretionary handout.
+
+## Administrative layer
+
+- A shared smart-contract admin layer handles loan origination, dissolution triggers, and enforcement.
+- **Anti-circumvention clause:** any entity supplying the control software, model weights, or perception stack for a rented robot is jointly bound by this Act, regardless of corporate structure — this closes the loophole where the valuable IP gets spun into a nominally separate, unregulated entity licensing "dumb" hardware to a thin operating shell.
+
+---
+
+## Sunset and the "long-tail corrector" problem
+
+**Open paradox identified:** if AI never achieves full self-iteration, human correction data is needed indefinitely — but an age-based retirement trigger (tickets dissolve when a worker retires) cuts off that data supply regardless of whether the system still needs it.
+
+**Resolution:** replace the age-based sunset with a **technical threshold trigger** — dissolution occurs only when new human-corrected data stops measurably improving robot performance for that trade. Until then, a shrinking, more specialized pool of certified "long-tail correctors" remains employed and paid, with *increasing* per-person leverage as their numbers shrink (scarcity works in their favor). This mirrors how even advanced automated systems still rely on human feedback for edge cases today — it's a hedge against genuine uncertainty about whether AI ever stops needing human input, not a confident bet either way.
+
+Note: this system-level trigger governs whether a *trade* still needs correctors. An individual worker's own retirement is a separate, personal event — addressed below.
+
+---
+
+## Retirement asset disposition
+
+At individual retirement, a worker must choose one of two structurally defined paths for their robot:
+
+- **Donate to public utility** — the robot enters an open-source public automation pool, consistent with the commons-dissolution design already built into the shared admin layer and the exit ramp for chronically unmatched robots.
+- **Sell back to the AI/robotics manufacturer** — not the operating company that was renting it. The manufacturer buys the hardware back for cash and either reclaims it for raw materials, or reintroduces it into circulation through the same ticket-issuance pipeline as new equipment, so it becomes the next worker's ticket-financed robot. A manufacturer buyback can never result in the hardware becoming directly owned, operated equipment for a factory or logistics firm — that would recreate the outright-purchase loophole the rent-only rule exists to prevent.
+
+Pension disbursement should be **structurally sequenced with this liquidation** — the realized value of whichever path is chosen feeds directly into the pension calculation already established (market value of past robot assets + skill tier), rather than being computed as a separate, independent government payment.
+
+Three design risks worth flagging before this is locked in:
+
+1. **Incentive imbalance between the two paths.** If manufacturer buyback consistently pays out a larger pension than public donation, the public automation pool — the same commons infrastructure the bill relies on elsewhere for recycling and dissolution — will be starved of assets as retiring workers rationally choose cash every time. Both paths should draw from the same valuation floor (tied to the existing depreciation/trade-in schedule) so the choice reflects a genuine preference between cash and contributing to public infrastructure, not a payout gap.
+2. **Bargaining power at the point of sale.** A retiring worker negotiating buyback price with the manufacturer is still in a structurally weak position — they need the cash, and the manufacturer has every incentive to lowball. This is the same information-asymmetry problem already flagged for bankruptcy-driven transfers; the same fix applies: a floor price indexed to the depreciation schedule rather than open bilateral negotiation.
+3. **Interaction with the demand-side concentration cap.** If most retiring workers in a trade choose corporate buyback, a single firm could accumulate a large share of that trade's hardware through the ordinary retirement cycle alone — a direct channel into the demand-side concentration risk already flagged, and one the companion market-share cap should explicitly cover, not just bankruptcy-driven or day-to-day rental concentration.
+
+---
+
+## Political and coalition strategy
+
+- **"Forbidden fruit" framing:** AI/robotics companies lose the right to sell robots outright, but gain clean, provenance-tracked training data, guaranteed funding via the loan structure, and political cover as allies of labor rather than displacers of it. This trade should be stated plainly in the bill's preamble.
+- **Scope the bill to brick-and-mortar/physical enterprises only.** This is the strongest political move identified: it removes software-only and non-physical firms from the opposition coalition entirely, since the law doesn't touch them. Precedent: right-to-repair legislation has advanced further industry-by-industry than as an omnibus law, for the same reason.
+- **Coalition composition:** workers + AI/robotics firms + government form a workable alliance, but **physical enterprises (factory owners, logistics, manufacturers) are a necessary fourth party** who bear a pure cost increase under this bill and have not yet been given a clear enough reason to accept it. Their buy-in — not just worker/AI-firm agreement — is the actual bottleneck. Currently the only offered benefit to them is data quality/legal risk reduction; this may need to be stronger or paired with the leasing-affordability argument below.
+- **Banks and administrative capacity are independent variables.** Political agreement between parties doesn't automatically produce a working credit system, skill-tier certification bodies, or dispute resolution — these require real institution-building regardless of consensus.
+
+---
+
+## Capital flight and the "why stay" question
+
+- The relevant comparison is never "advanced automation vs. obsolete machinery" — it's the *same* robot, owned free-and-clear elsewhere vs. rentable-only under this law domestically. A firm relocating to avoid Wage B isn't behaving irrationally; it's pursuing lower total cost of ownership for identical technology, which is the ordinary logic of capital mobility (well-precedented in how manufacturing has historically moved toward lower-compliance-cost jurisdictions).
+- The bill's survival depends on **quantifying**, not just asserting, that licensed/provenance-clean data is worth enough to firms to offset the cost of Wage B — this is currently the weakest, least-evidenced claim in the proposal and the first thing a serious critic would attack.
+- A global standardized framework ("other nations must follow or face economic shock") is a categorically bigger and slower project than the domestic bill — multilateral coordination problems (climate accords, trade agreements) typically take decades and are partially enforced at best. This should be framed as a separate, longer-horizon aspiration, not conflated with the domestic bill's near-term plausibility.
+
+---
+
+## Risk allocation: bankruptcy and idle robots
+
+**Problem:** the worker owns the robot and the government loan, not the company. If the renting company fails, Wage B rental income stops — but the worker's loan obligation doesn't. Without a fix, workers absorb the downside risk of company failure while companies absorb none of it.
+
+**Resolution — reframe idle robots as a matching problem, not an asset-loss problem:**
+- Because ownership sits with the worker, not the company, bankruptcy releases the robot back onto the market as **pre-financed, ready-to-deploy capital** — a genuine low-barrier entry point for new entrepreneurs who couldn't otherwise afford to buy automation outright (this is the same logic as standard equipment leasing lowering the barrier to capital-intensive adoption, applied to a new asset class).
+- Requires two supporting mechanisms:
+  1. A **matching/exchange layer** within the smart-contract admin system so idle robots surface to new renters quickly.
+  2. A **bridge fund** (cross-subsidized by active Wage B streams, similar in spirit to unemployment insurance) covering workers' loan payments during the gap between a company's failure and a new renter being matched — without this, the "entrepreneurs eventually absorb the asset" story is true in the medium term but still leaves a real short-term income gap.
+
+**Fair-matching algorithm:** rentals should be allocated using a **continuous priority rank** (e.g., by cumulative rental income or idle days to date, lowest first) rather than a binary "never rented / already rented" tier, since binary tiers collapse once most workers have had at least one lease. This prevents the matching system from defaulting to convenience (nearest/newest/most familiar robot), which would otherwise quietly recreate ownership inequality at the utilization layer — a version of the fairness-dispatch logic already used in ride-share trip allocation and deferred-acceptance queueing systems (organ allocation, public housing).
+
+- **Compatibility and fairness must run as two separate passes:** filter for task-compatible robots first, then apply fairness-priority ranking within that eligible pool — otherwise the algorithm forces bad matches and renters route around the system informally.
+- **Exit ramp needed for chronically unmatched robots:** an asset that stays idle through multiple fairness cycles isn't a queueing failure — it signals obsolescence or a shrinking trade, and needs its own resolution (early buy-back, retraining credit toward a new ticket) rather than indefinite queue priority, or it becomes debt the worker owes against a permanently unrentable asset.
+
+---
+
+## Cross-trade valuation gap
+
+**Problem identified:** the bill's equity mechanisms only address valuation gaps *within* a trade — skill mastery unlocks access to higher-tier robots, and the fair-matching algorithm equalizes *access* to rental opportunities for a given robot type. Neither touches the much larger gap *between* trades: a robot performing high-margin precision work is worth dramatically more than a robot performing low-margin repetitive work, regardless of how skilled or diligent the operating worker is. Two equally expert "Coaches" in different trades can end up with very different Wage B income and loan payoff timelines for reasons entirely outside their control or effort. Priority-based fairness solves *who* gets matched to a robot; it can't solve *what that match is worth* — so the "every worker starts with a basic ticket" equity claim in the core mechanism only holds within a trade, not across the system as a whole.
+
+**Resolution — cross-trade equalization pool.** This is the same structural problem sovereign wealth funds and resource dividends solve when the underlying resource isn't evenly distributed: Alaska's oil dividend works because revenue is pooled and distributed per capita *before* being split by which specific well someone happens to work near. Applied here: a mandatory, marginal cross-subsidy where higher-value-robot trades contribute a small share of surplus Wage B into a shared fund that tops up lower-value-robot trades — so the guaranteed floor becomes "basic robot, valuation-adjusted, system-wide" rather than just "basic robot within your own trade."
+
+- This is a genuinely hard tradeoff, not a clean fix: too much equalization erodes the incentive to master a high-value trade in the first place; too little leaves the cross-trade inequality fully intact from day one, independent of anyone's effort.
+- The equalization rate (what share of surplus Wage B gets pooled, and how it's redistributed) would need to be calibrated carefully enough to preserve the skill-mastery incentive that the rest of the bill depends on — this is a design parameter still to be worked out, not a solved detail.
+
+---
+
+## Ownership caps and concentration limits
+
+**Requirement:** strict caps on individual ownership are necessary to prevent asset concentration and capital monopolization from re-emerging inside a system explicitly designed to prevent it.
+
+- The non-tradeable, body-tied nature of the Digital Ticket already implies a natural cap — one ticket, held by one worker, cannot be transferred or pooled. This should be made explicit as a hard rule: **one active robot per worker at a time**, with skill-tier mastery determining *which value/type* of robot a worker can hold, not additional units. Without this made explicit, a master-tier worker could in principle accumulate multiple tickets across trades or robot generations, recreating exactly the asset concentration the ticket system exists to prevent.
+- **Enforcement risk mirrors the taxi-medallion/fishing-quota problem already flagged elsewhere in this document:** a hard per-worker cap doesn't stop informal circumvention — a worker could nominally hold the ticket while a hidden capital interest operates the robot through a power-of-attorney or management arrangement, extracting most of the economic value while the worker collects a fee for lending their identity. The same anti-circumvention clause that binds software/IP suppliers should extend to any arrangement where ticket-holding is functionally decoupled from actual "Coach" participation and asset control.
+- **This addresses supply-side concentration, not demand-side concentration.** Capping how many robots one worker can own doesn't prevent a small number of large rental companies from aggregating de facto market power by renting from thousands of dispersed worker-owners simultaneously — ownership stays distributed, but control over deployment doesn't. A companion limit (e.g., an antitrust-style cap on what share of a regional robot supply any single renting company can source from) may be needed to address this side of the problem, since an ownership cap alone only solves half of it.
+
+---
+
+## Viability compared to mainstream policy
+
+Mainstream approaches to AI/automation labor impact cluster around redistribution (UBI, robot tax), labor-market cushioning (portable benefits, retraining), governance/voice (co-determination, sectoral bargaining), and data dividends (mostly symbolic today). This proposal is structurally different — it targets **asset ownership**, not just income flow, closer in kind to land reform or fishing-quota allocation than to UBI.
+
+- **Strength vs. mainstream:** directly answers the "dependency" critique of UBI (a ticket-holder is an owner, not a recipient).
+- **Biggest viability risk:** every historical precedent for non-tradeable, individually-held rights (taxi medallions, fishing quotas, land-reform plots) has eventually been informally circumvented under enough financial pressure — this bill would face that pressure at a much larger scale than any of those precedents.
+- **Bottom line:** stronger as agenda-shifting political writing that names a real gap in current thinking than as a bill likely to pass and be enforced in its current form in the near term. Worth treating as two different documents with two different jobs.
+
+---
+
+## Open questions still unresolved
+
+1. Is the data-provenance advantage actually large enough, in quantifiable terms, to offset the cost disadvantage of Wage A + B relative to outright purchase or offshore relocation?
+2. What specifically brings **physical enterprises** (not just workers and AI firms) to agree to this cost structure — is "higher data quality, lower legal risk" sufficient, or does it need to be paired with the leasing-affordability argument?
+3. What are the concrete parameters of the "buffer period" — minimum sampling hours, minimum loan term, phase-in schedule before full Wage A/B rates apply?
+4. Does total lifetime cost (Wage A + B over the loan term) actually come in at or below outright purchase, or does it just defer the same cost?
+5. What legal enforcement mechanism prevents the same informal-transfer circumvention that undermined taxi medallions and fishing quotas?
+6. How would a global coordination framework actually be structured, given that no single first-mover mechanism exists at that scale — and should this even be part of the same bill, or a separate long-horizon initiative?
+7. What is the right cross-trade equalization rate — high enough to close the valuation gap between trades, but not so high that it removes the incentive to master a high-value trade in the first place?
+8. Is a companion cap needed on how much of a regional robot supply a single renting company can source from, to address demand-side concentration that an individual ownership cap alone can't reach?
+9. What floor-price formula prevents corporate buyback from systematically underpaying retiring workers relative to public donation, while also keeping the public automation pool from being starved of assets?
+10. What stops an operating company from routing around the outright-purchase ban by structuring or acquiring a nominal "manufacturer" entity solely to conduct retirement buybacks on its behalf?
