@@ -1,66 +1,111 @@
-# The Automation Ownership Act — A Governance Framework for Labor in the Age of Robotics
+# The Automation Ownership Act
 
 **Status:** Thought Experiment / Open for Critique
 
+> **They trained the machines on your labor. You should own the machines.**
+
+---
+
 ## What This Is
 
-This repository contains a comprehensive governance framework for industrial automation ownership, rethinking who should own the machines that increasingly power production.
+This is a governance framework for industrial automation ownership. It asks a simple question:
 
-**Core thesis:**
+> *If workers generate the training data that makes automation viable, why shouldn't they hold a legal, non-transferable ownership stake in the machines that replace them?*
 
-> *Workers generate the training data that makes automation viable. They should hold a legal, non-transferable ownership stake in the machines that replace them — turning displacement into ongoing income and leverage, not dependency.*
+This is **not** a polished bill ready for legislation. It's a structural thought experiment — a full-system mechanism design that explicitly maps out its own weakest points (capital flight, cross-trade inequality, enforcement gaps). The goal is to stress-test the idea, not to sell it as finished.
 
-This is **not** a polished bill ready for legislation. It is a structural thought experiment — a full-system mechanism design that explicitly maps out its own weakest points, including capital flight risk, cross-trade inequality, demand-side concentration, and enforcement challenges.
+The framework already contains distributive mechanisms — retirement asset disposition, a cross-trade equalization pool, dual income streams — but these are secondary to the primary goal.
 
-The framework is built around several core mechanisms:
+---
+
+## First Things First
+
+This draft has one job: **ensure that workers, as a collective, own productive assets before AI displaces them at scale.**
+
+The first priority is existential: **survival with dignity.** If workers don't own the machines that replace them, they become dependents on the very system that displaced them — regardless of how generously that system redistributes.
+
+Internal fairness debates matter. They are not ignored. But they must not become a reason to kill the framework before it can do its primary job.
+
+---
+
+## Who This Is For (and Who It Isn't)
+
+This framework is deliberately scoped to **physical, brick-and-mortar industries** — manufacturing, logistics, assembly. This is a strategic choice:
+
+- **If you're a blue-collar worker** in a physical trade: this is a potential asset shield for you.
+- **If you're a white-collar worker** (writer, designer, programmer): your AI replacement involves copyright and intellectual property — a different problem that requires different legal tools. This framework doesn't solve that, but it doesn't ignore you either. Consider this a proof-of-concept for what a "white-collar version" might look like.
+- **If you're an AI/robotics firm**: this framework offers clean, provenance-tracked training data in exchange for a rent-only sales model. You don't sell robots outright anymore — but you get guaranteed loan-funded purchases and political cover as an ally of labor.
+- **If you're a pure software / non-physical company**: this framework explicitly excludes you from its scope. It is not trying to regulate AI models or platforms. That's a separate battle, for a separate document.
+
+---
+
+## Core Mechanisms (The Short Version)
 
 - **Digital Tickets** — non-tradeable, body-tied credentials earned through real-world "Coach" hours (training data generation)
 - **Rent-Only Mandate** — operating companies are permanently banned from buying robots outright; they must rent from workers
 - **Two Income Streams** — Wage A (data/sampling) and Wage B (robot rental income)
 - **Long-Tail Corrector Sunset** — dissolution triggered by a technical threshold, not age
-- **Cross-Trade Equalization Pool** — a mandatory surplus-sharing mechanism between high-value and low-value robot trades
-- **Retirement Asset Disposition** — workers choose between public donation or manufacturer buyback, with a floor price indexed to depreciation
+- **Cross-Trade Equalization Pool** — surplus-sharing between high-value and low-value robot trades (design still open)
+- **Retirement Asset Disposition** — workers choose between public donation or manufacturer buyback
+
+For the full breakdown, see [`framework.md`](./framework.md).
+
+---
 
 ## Why This Matters
 
-Most current policy approaches to automation cluster around:
-- Redistribution (UBI, robot taxes)
-- Labor cushioning (retraining, portable benefits)
-- Governance/voice (co-determination, sectoral bargaining)
+Most current policy approaches to automation cluster around redistribution (UBI, robot taxes) or labor cushioning (retraining, portable benefits). This framework is structurally different — it targets **asset ownership**, not just income flow. It's closer in kind to land reform or fishing-quota allocation than to UBI.
 
-This framework is structurally different — it targets **asset ownership**, not just income flow. It's closer in kind to land reform or fishing-quota allocation than to UBI.
-
-It also explicitly grapples with the hard problems that most proposals ignore:
+It also explicitly grapples with the hard problems most proposals ignore:
 - Capital flight and the "why stay" question
 - Cross-trade valuation gaps
 - Retirement asset disposition and pension sequencing
 - Bankruptcy risk allocation
 - Demand-side concentration (not just supply-side ownership caps)
 
+---
+
 ## What This Repository Contains
 
 - [`framework.md`](./framework.md) — The complete consolidated framework (core thesis + all mechanisms)
 - [`open-questions.md`](./open-questions.md) — Ten open questions the framework explicitly acknowledges it cannot fully answer yet
 
+---
+
 ## How You Can Engage
 
-I'm not pitching this as a ready-to-pass law. I'm sharing it as a mechanism design to be stress-tested, criticized, and improved.
+If you're interested in stress-testing this idea, here's what would help most:
 
-Specifically, I'm looking for feedback on:
+1. **Read the framework** and open an Issue with your critique.
+2. **Pick one of the open questions** and propose a solution — especially:
+   - Capital flight offset
+   - Cross-trade equalization rate
+   - Demand-side concentration (antitrust-style cap?)
+   - Manufacturer buyback loophole (shell companies)
+3. **Fork this repo** and build your own variant. This idea is meant to outgrow me.
 
-1. **Capital flight** — Is the data-provenance advantage enough to offset Wage A+B costs? If not, what additional layer is needed?
-2. **Cross-trade equalization rate** — What's the right surplus-sharing ratio that preserves skill-mastery incentives?
-3. **Enforcement** — What stops informal circumvention (power-of-attorney, hidden capital interests) in practice?
-4. **Demand-side concentration** — Is an antitrust-style cap on regional robot supply sourcing necessary?
-5. **Manufacturer buyback loophole** — What stops an operating company from acquiring a nominal "manufacturer" entity solely to conduct retirement buybacks?
+Discussion currently happens via **GitHub Issues**. If you want to start a Discord server or a subreddit to dig deeper, feel free — this is an open ecosystem, not a closed project.
+
+---
+
+## Open Questions (Unresolved Gaps)
+
+The framework currently acknowledges the following gaps:
+
+| Gap | Status |
+| :--- | :--- |
+| Demand-side concentration | Acknowledged, not yet designed |
+| Buyback floor-price formula | Acknowledged, not yet calibrated |
+| Shell manufacturer loophole | Acknowledged, not yet addressed |
+| Vertical choke points (chips, ports) | Acknowledged, not yet addressed |
+
+For the full list, see [`open-questions.md`](./open-questions.md).
+
+---
 
 ## A Note on Language
 
 English is not my first language. This text was composed with the help of translation tools. I've done my best to ensure accuracy, and I'm happy to clarify anything that seems unclear.
-
-## Contact / Discussion
-
-For now, discussion happens via GitHub Issues. Feel free to open an issue with your critique, questions, or suggested modifications.
 
 ---
 
