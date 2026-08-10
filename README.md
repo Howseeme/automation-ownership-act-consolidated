@@ -1,5 +1,7 @@
 # The Automation Ownership Act
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 **Status:** Thought Experiment / Open for Critique
 
 > **They trained the machines on your labor. You should own the machines.**
@@ -109,13 +111,16 @@ English is not my first language. This text was composed with the help of transl
 
 ---
 
-### License
+## License
 
-This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
 You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose
+- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this work
+- Use it for any purpose, including commercial projects
 
-Under the following term:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+The only condition is that the original copyright notice and permission notice appear in all copies or substantial portions of the work.
+
+---
+
+I chose MIT because I want this idea to be forkable, buildable, and usable — by anyone, for any purpose. You don't need my permission to take it further. If you do, I'd be curious to see where it goes, but that's entirely up to you.
