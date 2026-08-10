@@ -95,21 +95,3 @@
 | Meets required coaching hours | Very low subsidised rate (1–2%) |
 | Zero coaching hours | Penalty high rate (12–15%) |
 | After loan is fully paid off | Future upgrade/maintenance subsidies remain permanently conditional on lifetime coaching activity score |
-
-
-## Overview of Proposal Status by Question
-
-| Question | Proposal Available |
-|----------|---------------------|
-| Q1 |  Yes |
-| Q2 |  Yes |
-| Q3 |  Yes |
-| Q4 |  Yes |
-| Q5 |  Yes |
-| Q6 |  Yes |
-| Q7 |  Yes |
-| Q8 |  Yes |
-| Q9 |  Yes |
-| Q10 |  Yes |
-| Q11 |  Yes |
-| Q12 |  Yes |
